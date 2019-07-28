@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="superMercado.SuperMercadoTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-07-28T22:57:54" hostname="gaba-Desktop" time="0.653">
+  <properties/>
+  <testcase name="multiplePromotionsTest1" classname="superMercado.SuperMercadoTest" time="0.049"/>
+  <testcase name="multiplePromotionsTest2" classname="superMercado.SuperMercadoTest" time="0.035"/>
+  <testcase name="caixaTest1" classname="superMercado.SuperMercadoTest" time="0.034"/>
+  <testcase name="caixaTest2" classname="superMercado.SuperMercadoTest" time="0.032"/>
+  <testcase name="caixaTest3" classname="superMercado.SuperMercadoTest" time="0.029"/>
+  <testcase name="caixaTest4" classname="superMercado.SuperMercadoTest" time="0.029"/>
+  <testcase name="dataBankTest1" classname="superMercado.SuperMercadoTest" time="0.128"/>
+  <testcase name="dataBankTest2" classname="superMercado.SuperMercadoTest" time="0.172"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
