@@ -1,4 +1,4 @@
-# superMercado_checkOut
+# superMercado checkout
 sistema de calculo/gerenciamento de compras em supermercados. Feito para trabalho de processo seletivo de vaga de estágio.
 
 
